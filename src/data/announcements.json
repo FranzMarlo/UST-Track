@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Tubercolosis",
+    "date": "2025-10-18",
+    "subtitle": "Mind Matters: Mental Health Awareness Lecture Series",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo laudantium cum earum asperiores, delectus harum, eius consequuntur sunt fugit vitae molestias facilis similique minima nisi culpa. Quis, soluta atque. Porro.",
+    "color": "text-[#4f7908]",
+    "image": "/img/announcements/tubercolosis.png"
+  },
+  {
+    "id": 2,
+    "title": "Rabies",
+    "date": "2025-10-18",
+    "subtitle": "Mind Matters: Mental Health Awareness Lecture Series",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo laudantium cum earum asperiores, delectus harum, eius consequuntur sunt fugit vitae molestias facilis similique minima nisi culpa. Quis, soluta atque. Porro.",
+     "color": "text-[#3a129d]",
+    "image": "/img/announcements/rabies.png"
+  },
+  {
+    "id": 3,
+    "title": "Mental Health",
+    "date": "2025-10-18",
+    "subtitle": "Mind Matters: Mental Health Awareness Lecture Series",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo laudantium cum earum asperiores, delectus harum, eius consequuntur sunt fugit vitae molestias facilis similique minima nisi culpa. Quis, soluta atque. Porro.",
+     "color": "text-[#ffd4d5]",
+    "image": "/img/announcements/mental.png"
+  },
+  {
+    "id": 4,
+    "title": "Leptospirosis",
+    "date": "2025-10-18",
+    "subtitle": "Mind Matters: Mental Health Awareness Lecture Series",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo laudantium cum earum asperiores, delectus harum, eius consequuntur sunt fugit vitae molestias facilis similique minima nisi culpa. Quis, soluta atque. Porro.",
+     "color": "text-[#c85f5e]",
+    "image": "/img/announcements/leptospirosis.png"
+  }
+]

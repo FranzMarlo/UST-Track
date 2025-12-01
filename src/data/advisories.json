@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Consituency Check",
+    "date": "2025-09-27",
+    "content": "CSC urges answering of Consituency Check.",
+    "subcontent": "Please take a moment to review the advisory and stay informed. Your safety matters!",
+    "image": "/img/advisories/consituency.png"
+  },
+  {
+    "id": 2,
+    "title": "Vaccines Available!",
+    "date": "2025-06-05",
+    "content": "Vaccines, now available at the health service!",
+    "subcontent": "Please take a moment to review the advisory and stay informed. Your safety matters!",
+    "image": "/img/advisories/vaccines.png"
+  }
+]
