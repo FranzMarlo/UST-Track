@@ -3,8 +3,8 @@
     "id": 1,
     "title": "Tubercolosis",
     "date": "2025-10-18",
-    "subtitle": "Mind Matters: Mental Health Awareness Lecture Series",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo laudantium cum earum asperiores, delectus harum, eius consequuntur sunt fugit vitae molestias facilis similique minima nisi culpa. Quis, soluta atque. Porro.",
+    "subtitle": "TB Alert: Protecting Our Community from Tuberculosis",
+    "description": "Learn the facts about tuberculosis, how it spreads, and the steps you can take to stay protected. Early detection and treatment are key—stay informed and keep your family safe.",
     "color": "text-[#4f7908]",
     "image": "/img/announcements/tubercolosis.png"
   },
@@ -12,8 +12,8 @@
     "id": 2,
     "title": "Rabies",
     "date": "2025-10-18",
-    "subtitle": "Mind Matters: Mental Health Awareness Lecture Series",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo laudantium cum earum asperiores, delectus harum, eius consequuntur sunt fugit vitae molestias facilis similique minima nisi culpa. Quis, soluta atque. Porro.",
+    "subtitle": "Rabies Prevention: Stay Safe Around Animals",
+    "description": "Rabies is deadly but preventable. Find out how to recognize risks, what to do after an animal bite, and how vaccination helps protect both people and pets.",
      "color": "text-[#3a129d]",
     "image": "/img/announcements/rabies.png"
   },
@@ -21,8 +21,8 @@
     "id": 3,
     "title": "Mental Health",
     "date": "2025-10-18",
-    "subtitle": "Mind Matters: Mental Health Awareness Lecture Series",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo laudantium cum earum asperiores, delectus harum, eius consequuntur sunt fugit vitae molestias facilis similique minima nisi culpa. Quis, soluta atque. Porro.",
+    "subtitle": "Mind Matters: Promoting Mental Wellness for All",
+    "description": "Mental health is essential to overall well-being. Discover helpful tips, support resources, and programs designed to promote emotional balance and reduce stress.",
      "color": "text-[#ffd4d5]",
     "image": "/img/announcements/mental.png"
   },
@@ -30,8 +30,8 @@
     "id": 4,
     "title": "Leptospirosis",
     "date": "2025-10-18",
-    "subtitle": "Mind Matters: Mental Health Awareness Lecture Series",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo laudantium cum earum asperiores, delectus harum, eius consequuntur sunt fugit vitae molestias facilis similique minima nisi culpa. Quis, soluta atque. Porro.",
+    "subtitle": "Leptospirosis Watch: Stay Safe This Rainy Season",
+    "description": "Know the warning signs and prevention tips for leptospirosis, especially during floods. Learn how to avoid exposure and when to seek medical care.",
      "color": "text-[#c85f5e]",
     "image": "/img/announcements/leptospirosis.png"
   }
