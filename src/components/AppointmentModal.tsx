@@ -45,8 +45,8 @@ const AppointmentModal = () => {
   };
 
   const handleOpenModal = () => {
-    //if (!isWithinOfficeHours()) { just copy this to next line if you want to access form
-    if (!isWithinOfficeHours()) {
+    //if (!isWithinOfficeHours()) { just copy this to next line if you want to access form on offline hours
+    if (isWithinOfficeHours()) {
       setIsOpen(true);
     } else {
       setShowToast(true);

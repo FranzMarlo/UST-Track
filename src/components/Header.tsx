@@ -28,7 +28,7 @@ function Header() {
           </button>
           <div className="flex items-center gap-1">
             <img src={Logo} alt="logo" className="h-8 w-auto" />
-            <span className="font-extrabold text-white">UST TRACK</span>
+            <span className="font-extrabold text-white">USTrack</span>
           </div>
         </div>
 
